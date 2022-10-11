@@ -1,0 +1,4 @@
+#Mon Oct 10 19:00:53 BDT 2022
+base.0=E\:\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
